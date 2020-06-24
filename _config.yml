@@ -1,4 +1,5 @@
 # Jekyll configuration
+theme:jekyll-theme-tactile
 markdown: kramdown
 highlighter: rouge
 paginate: 100 # it will paginate after this number
